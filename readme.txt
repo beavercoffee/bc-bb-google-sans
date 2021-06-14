@@ -13,7 +13,7 @@ BC BB Google Sans
 
 == Description ==
 
-Add Google Sans to Beaver Builder's font families.
+Add Google Sans to Beaver Builder font families.
 
 == Changelog ==
 

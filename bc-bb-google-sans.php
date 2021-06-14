@@ -2,7 +2,7 @@
 /*
 Author: Beaver Coffee
 Author URI: https://beaver.coffee
-Description: Add Google Sans to Beaver Builder's font families.
+Description: Add Google Sans to Beaver Builder font families.
 Domain Path:
 License: GPL2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
