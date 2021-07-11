@@ -12,7 +12,7 @@ Plugin URI: https://github.com/beavercoffee/bc-bb-google-sans
 Requires at least: 5.7
 Requires PHP: 5.6
 Text Domain: bc-bb-google-sans
-Version: 1.7.9
+Version: 1.7.9.1
 */
 
 if(defined('ABSPATH')){

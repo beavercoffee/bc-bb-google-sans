@@ -85,7 +85,7 @@ if(!class_exists('BC_BB_Google_Sans')){
             if(defined('FL_BUILDER_VERSION')){
                 add_filter('fl_builder_get_google_json', [$this, 'add_google_sans']);
         	}
-            bc_build_update_checker('https://github.com/beavercoffee/bc-bb-bootstrap-4', $this->file, 'bc-bb-bootstrap-4');
+            bc_build_update_checker('https://github.com/beavercoffee/bc-bb-google-sans', $this->file, 'bc-bb-google-sans');
         }
 
     	// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
